@@ -6,7 +6,7 @@
 
 ## 🚀 How to Run
 
-1. Open the [Code in Place Playground](https://codeinplace.stanford.edu/public/create) and select **“New Graphics Project.”**
+1. Open the [Code in Place Playground](https://codeinplace.stanford.edu/public/create) and select **“New Graphics Project”**
 2. Name your project.
 3. Copy–paste the code from **`main.py`** into the editor.
 
